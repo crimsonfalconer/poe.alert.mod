@@ -2,7 +2,7 @@
 // @name        PoE.Trade Alert Mod
 // @namespace   poe.trade
 // @include     http://poe.trade/*/live
-// @version     1
+// @version     2
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_log
