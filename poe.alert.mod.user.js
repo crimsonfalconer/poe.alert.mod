@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        PoE.Trade Alert Mod
-// @namespace   poe.trade
+// @namespace   https://github.com/crimsonfalconer/poe.alert.mod
 // @include     http://poe.trade/*/live
 // @version     2
 // @grant       GM_getValue
