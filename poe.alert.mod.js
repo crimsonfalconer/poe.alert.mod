@@ -6,7 +6,7 @@
 // @grant       none
 // ==/UserScript==
  
-var audioLink = 'http://ec-media.sndcdn.com/A6GEBWlb5NWR?f10880d39085a94a0418a7ef61b03d5275edf83695e0cd6a5a31b901eab5785ae87b90f7e7c6c992d6050dde085c1d59f789b6c041091cf7ff41a684b5';
+var audioLink = 'https://raw.githubusercontent.com/crimsonfalconer/poe.alert.mod/master/alert.mp3';
  
 var audioObj = document.getElementById('live-audio');
 var sourceObj = audioObj.getElementsByTagName('source');
