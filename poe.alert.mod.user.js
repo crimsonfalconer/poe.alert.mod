@@ -21,7 +21,7 @@ function UpdateLiveAlertSound()
     {
       GM_log("Updating URL to: " + inputURL.value);   
       GM_setValue('poeTradeAlertSound', inputURL.value);
-      alertURL = inputURL.value
+      alertURL = inputURL.value;
     }
   }
  
