@@ -13,6 +13,6 @@ var sourceObj = audioObj.getElementsByTagName('source');
  
 if (sourceObj.length > 0)
 {
-  sourceObj[0].setAttribute('src', '');
+  sourceObj[0].setAttribute('src', audioLink);
   audioObj.load();
 }
