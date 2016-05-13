@@ -2,13 +2,13 @@
 // @name        PoE.Trade Alert Mod
 // @namespace   https://github.com/crimsonfalconer/poe.alert.mod
 // @include     http://poe.trade/*/live
-// @version     4
+// @version     5
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_log
 // @updateURL       https://github.com/crimsonfalconer/poe.alert.mod/raw/master/poe.alert.mod.user.js
 // @downloadURL     https://github.com/crimsonfalconer/poe.alert.mod/raw/master/poe.alert.mod.user.js
-// @updateVersion   4
+// @updateVersion   5
 // @homepageURL     https://github.com/crimsonfalconer/poe.alert.mod
 // @supportURL      https://github.com/crimsonfalconer/poe.alert.mod/issues
 // ==/UserScript==
