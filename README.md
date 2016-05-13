@@ -10,4 +10,4 @@ You must first have a userscript extension installed on your browser such as Tam
 
 
 ## Install
-Once you have a userscript extension installed in your browser [click here to install](https://github.com/crimsonfalconer/poe.alert.mod/raw/master/poe.alert.mod.user.js, "Install").
+Once you have a userscript extension installed in your browser [click here to install]("https://github.com/crimsonfalconer/poe.alert.mod/raw/master/poe.alert.mod.user.js", "Install").
