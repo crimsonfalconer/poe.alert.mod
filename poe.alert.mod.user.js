@@ -8,8 +8,6 @@
 // @grant       GM_log
 // ==/UserScript==
 
-GM_log('hi');
-
 function UpdateLiveAlertSound()
 {
   var alertURL  = GM_getValue("poeTradeAlertSound", 'https://raw.githubusercontent.com/crimsonfalconer/poe.alert.mod/master/alert.mp3');
@@ -25,7 +23,6 @@ function UpdateLiveAlertSound()
     }
   }
  
-  var audioLink = '';
   var audioObj = document.getElementById('live-audio');
   var sourceObj = audioObj.getElementsByTagName('source');
   if (sourceObj.length > 0)
