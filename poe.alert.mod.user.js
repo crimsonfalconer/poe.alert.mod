@@ -13,6 +13,16 @@
 // @supportURL      https://github.com/crimsonfalconer/poe.alert.mod/issues
 // ==/UserScript==
 
+this.GM_getValue=function (key,def) {
+    return localStorage[key] || def;
+};
+this.GM_setValue=function (key,value) {
+    return localStorage[key]=value;
+};
+this.GM_deleteValue=function (key) {
+    return delete localStorage[key];
+};
+
 function UpdateLiveAlertSound()
 {
   var alertURL  = GM_getValue("poeTradeAlertSound", 'https://raw.githubusercontent.com/crimsonfalconer/poe.alert.mod/master/alert.mp3');
